@@ -84,11 +84,11 @@
       correctAnswer: "b"
     },
     {
-      question: "Which one of these is a JavaScript package manager?",
+      question: "What was the company that Janese founded called?",
       answers: {
-        a: "Node.js",
-        b: "TypeScript",
-        c: "npm"
+        a: "Boy tech",
+        b: "Univeral tech",
+        c: "Girl tech"
       },
       correctAnswer: "c"
     },
