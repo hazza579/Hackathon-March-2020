@@ -81,7 +81,7 @@
         b: "Invented toys aimed specifically at girls",
         c: "First female pilot "
       },
-      correctAnswer: "c"
+      correctAnswer: "b"
     },
     {
       question: "Which one of these is a JavaScript package manager?",
