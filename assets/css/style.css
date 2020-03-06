@@ -4,3 +4,31 @@
     width: 100%;
     height: auto;
 }
+
+/* footer */
+
+.footer {
+  height: 150px
+}
+
+.social-networks {
+  text-align: center;
+}
+
+.social-networks li {
+  display: inline
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 4%;
+    color: #777777;
+    transition: color .3s ease-out;
+    -moz-transition: color .3s ease-out;
+    -webkit-transition: color .3s ease-out;
+}
+
+.social-networks i:hover {
+    color: #F45B5E;
+}
