@@ -93,7 +93,7 @@
       correctAnswer: "c"
     },
     {
-      question: "Which tool can you use to ensure code quality?",
+      question: "W?",
       answers: {
         a: "Angular",
         b: "jQuery",
