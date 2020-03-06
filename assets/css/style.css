@@ -20,9 +20,9 @@
 }
 
 .social-networks i {
-    font-size: 160%;
+    font-size: 2.5em;
     margin: 1%;
-    padding: 4%;
+    padding: 3px;
     color: #777777;
     transition: color .3s ease-out;
     -moz-transition: color .3s ease-out;
@@ -31,4 +31,8 @@
 
 .social-networks i:hover {
     color: #F45B5E;
+}
+
+.copyright {
+    text-align: center
 }
