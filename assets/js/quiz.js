@@ -93,14 +93,22 @@
       correctAnswer: "c"
     },
     {
-      question: "W?",
+      question: "When Janese was a flight attendant, what did she teach her fellow colleagues?",
       answers: {
-        a: "Angular",
-        b: "jQuery",
-        c: "RequireJS",
-        d: "ESLint"
+        a: "How to apply the perfect red lipstick",
+        b: "Computer skills",
+        c: "Where the emergency exits are",
       },
-      correctAnswer: "d"
+      correctAnswer: "b"
+    },
+    {
+      question: "Which of these is not a toy designed by Janese's company?",
+      answers: {
+        a: "Digi Makeover",
+        b: "Password journal",
+        c: "Action barbie",
+      },
+      correctAnswer: "c"
     }
   ];
 
